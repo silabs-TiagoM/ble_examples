@@ -4,6 +4,6 @@
     <hardware in="hardware.xml" />
     <script in="master.bgs" />
 	<config in="master_config.xml" />
-    <device type="ble113" />
+    <device type="ble113-m256k" />
     <image out="master_ble113.hex" />
 </project>
