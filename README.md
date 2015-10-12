@@ -1,1 +1,1 @@
-# ble_examples
+Examples for BLExxx Bluetooth LE module products from Silicon Labs
